@@ -12,7 +12,7 @@ A powerful and intuitive **GDG Dashboard Website** designed to streamline commun
 - 🌐 **Fully Responsive** – Optimized for all devices.
 
 ## 🛠️ Tech Stack
-- **Frontend:** Next.js, Tailwind CSS  
+- **Frontend:** Next.js, Tailwind CSS ,TypeScript 
 - **Backend:** Firebase  
 - **APIs:** Google APIs  
 - **Hosting:** Vercel  
