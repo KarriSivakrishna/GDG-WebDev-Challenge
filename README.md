@@ -2,7 +2,7 @@
 
 A powerful and intuitive **GDG Dashboard Website** designed to streamline community management for **Google Developer Groups (GDG)**. This platform provides real-time analytics, event management, and member engagement insights.
 
-🔗 **Live Demo:** [GDG Dashboard](https://v0-gdgdashboardfinal.vercel.app/)
+🔗 **DEPLOYED LINK:** (https://v0-gdgdashboardfinal.vercel.app/)
 
 ## 🌟 Features
 - 📊 **Real-time Analytics** – Track community growth and engagement.
